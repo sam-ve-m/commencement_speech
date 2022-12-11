@@ -1,0 +1,5 @@
+bs4==0.0.01
+markovify==0.9.4
+aiohttp==3.8.3
+uvicorn==0.20.0
+fastapi==0.88.0
